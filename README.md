@@ -70,6 +70,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/wizardop964-rgb/expense-tracker-react
+```
 
 ---
 
